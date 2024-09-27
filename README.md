@@ -55,8 +55,8 @@ Une application web moderne conçue pour aider les étudiants à organiser leur 
 
 1. Clonez le dépôt GitHub :
    ```
-   git clone https://github.com/ClaudeK027/edudisgn-project
-   cd edudisgn-project
+   git clone https://github.com/ClaudeK027/Unidaily-project
+   cd Unidaily-project
    ```
 
 2. Construisez et lancez les conteneurs Docker :
