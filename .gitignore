@@ -1,0 +1,6 @@
+# Web
+/web/node_modules
+/web/build
+
+# Mobile
+/mobile/node_modules
