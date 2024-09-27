@@ -27,12 +27,23 @@ Une application web moderne conçue pour aider les étudiants à organiser leur 
 ## Captures d'écran
 
 ### Page de connexion
+![image](https://github.com/user-attachments/assets/bb301813-8724-489d-bdbc-7112d96c7bbc)
+
 
 ### Page d'Acceuil
+![image](https://github.com/user-attachments/assets/ba7c208e-0e2e-497b-97e6-fbbffc004ce4)
+![image](https://github.com/user-attachments/assets/ac860cbe-d7f8-4cec-a5a8-f8d5dab26156)
+
+
 
 ### Emploi du temps
+![image](https://github.com/user-attachments/assets/c443a3be-9751-4dc4-be47-f594c65e50fb)
+![image](https://github.com/user-attachments/assets/504dd539-b3da-4922-a351-647a652fa0c4)
+
 
 ### Profil
+![image](https://github.com/user-attachments/assets/6a650944-b273-4b48-88f0-932ecf8dec89)
+
 
 ## Prérequis techniques
 
