@@ -86,4 +86,4 @@ Pour travailler sur le projet en mode développement :
 
 Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à :
 - Ouvrir une issue sur GitHub
-- Contacter l'équipe de développement à support@app-gestion-etudiante.com
+- Contacter l'équipe de développement à 
