@@ -1,4 +1,4 @@
-# Application de Gestion Étudiante
+# Application de Gestion de  vie Étudiante
 
 Une application web moderne conçue pour aider les étudiants à organiser leur vie académique. Elle offre une interface intuitive pour gérer l'emploi du temps, suivre les cours, et rester informé des événements du campus.
 
@@ -23,6 +23,16 @@ Une application web moderne conçue pour aider les étudiants à organiser leur 
    - Liste des événements du campus
    - Filtrage par type d'événement
    - Possibilité de s'inscrire aux événements
+  
+## Captures d'écran
+
+### Page de connexion
+
+### Page d'Acceuil
+
+### Emploi du temps
+
+### Profil
 
 ## Prérequis techniques
 
